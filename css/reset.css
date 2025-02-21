@@ -6,6 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Roboto", serif;
+    scroll-behavior: smooth;
 }
 
 ul{
@@ -18,5 +19,5 @@ a{
 }
 
 body{
-    background-color: #dedede;
+    background-image: linear-gradient(to bottom, #FDFAF3 0%, #FDFBF4 20%, #FCF8EF 40%, #FBF6E9 100%);
 }
